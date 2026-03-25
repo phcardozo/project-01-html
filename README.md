@@ -1,2 +1,2 @@
-# projetos01
-# Meus projetos conforme desenvolvimento da faculdade
+# project 01
+# my first project using the HTML language
